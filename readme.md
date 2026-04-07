@@ -112,9 +112,9 @@ Copy and paste this into your markdown, and that's it. Simple!
 
 Change the `?username=` value to your GitHub username.
 
-```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```
+md
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaminbhoot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 > [!WARNING]
 > By default, the stats card only shows statistics like stars, commits, and pull requests from public repositories. To show private statistics on the stats card, you should [deploy your own instance](#deploy-on-your-own) using your own GitHub API token.
